@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60" started-at="2023-01-18T15:01:21 IST" finished-at="2023-01-18T15:01:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60" started-at="2023-01-18T15:01:21 IST" finished-at="2023-01-18T15:01:21 IST">
+      <class name="Practice.CreateClassForRunConfi">
+        <test-method status="PASS" signature="create()[pri:0, instance:Practice.CreateClassForRunConfi@fad74ee]" name="create" duration-ms="8" started-at="2023-01-18T15:01:21 IST" finished-at="2023-01-18T15:01:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- Practice.CreateClassForRunConfi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
